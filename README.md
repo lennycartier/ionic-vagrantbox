@@ -12,6 +12,7 @@ This is a cordova vagrant box with the following features :
 
 * forward ionic serve ports
 * enable apk installation on device
+* maybe set timeout, for now you need to have a good bandwith
 
 ## How to use ##
 
